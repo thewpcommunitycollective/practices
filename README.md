@@ -1,4 +1,4 @@
-# Operational Practices
+# The WP Community Collective Operational Practices
 
 This repository documents the internal operational practices of The WP Community Collective. These practices define how programs are managed, how decisions are implemented, and how staff and contributors collaborate in support of the organization’s mission.
 
