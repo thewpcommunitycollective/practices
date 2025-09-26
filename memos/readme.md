@@ -1,14 +1,5 @@
-# The WP Community Collective Board of Director Memos
+The Memos for The WP Community Collective have been moved to
 
-This folder contains formal board-reviewed memos for The WP Community Collective.
+(https://github.com/thewpcommunitycollective/processes/tree/main/practices/memos)
 
-Each memo is documented as an accessible (tagged) PDF and serves as a record of practices received and reviewed by the Board of Directors.
-
-## Folder Purpose
-
-This subfolder is part of the `practices` repository and is used to archive individual memos in a structured format. Each file should be named clearly, including the date and topic of the resolution, (e.g., `2025-03-resolution-governance-framework.pdf`)
-
-## Guidelines
-
-- All files must be approved by the board before being added.
-- Use PDF format for finalized documents.
+This is now an archived repo. It can safely be deleted, but until we establish a processes for deleting repos, an archive will suffice.
